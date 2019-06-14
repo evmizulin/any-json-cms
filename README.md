@@ -2,6 +2,10 @@
 
 Open source headless CMS that could help manage and deliver any JSON to any app.
 
+### Installation
+
+Any JSON CMS consists of two parts. [Admin application server](https://github.com/evmizulin/cms-admin) and [API server](https://github.com/evmizulin/cms-api). To install Any JSON CMS you should install this parts separately.
+
 ### Basic usage
 
 #### Create a model
@@ -43,7 +47,3 @@ You will get:
   }
 ]
 ```
-
-### Installation
-
-Any JSON CMS consists of two parts. [Admin application server](https://github.com/evmizulin/cms-admin) and [API server](https://github.com/evmizulin/cms-api).
