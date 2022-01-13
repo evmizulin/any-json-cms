@@ -1,4 +1,4 @@
-# [Any JSON CMS](http://anyjsoncms.com)
+# Any JSON CMS
 
 Open source headless CMS that could help manage and deliver any JSON to any app.
 
