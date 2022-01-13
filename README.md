@@ -31,7 +31,7 @@ Any client requesting content from the API needs to provide an API Key.
 Fetch your entries as a JSON and use them in any app.
 
 ```sh
-curl https://api.anyjsoncms.com/entries -H "ApiKey: ad39d7bd70266cc0c178260e061a3f1b42ab329e"
+curl https://[some-domain]/entries -H "ApiKey: ad39d7bd70266cc0c178260e061a3f1b42ab329e"
 ```
 
 You will get:
